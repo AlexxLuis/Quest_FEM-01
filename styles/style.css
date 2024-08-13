@@ -1,0 +1,50 @@
+body {
+    background-color: #D5E1EF;
+    display: grid;
+    place-items: center;
+
+}
+
+.flexbox-container {
+    background-color: white;
+    width: 375px;
+    height: 550px;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    border-radius: 10px;
+}
+
+.QR {
+    width: 330px;
+    height: auto;
+    border-radius: 5%;
+    margin-top: 15px;
+
+}
+
+h1 {
+    margin-top: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 295px;
+    height: 80px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    border-radius: 5%;
+    font-family: "Outfit", sans-serif;
+}
+
+p {
+    color: gray;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 18px;
+    text-align: center;
+    font-family: "Outfit", sans-serif;
+
+}
